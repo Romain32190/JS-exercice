@@ -21,7 +21,9 @@ mois.splice(7, 1, "Août");
 console.log(mois);
 
 //Exercice 6//
+for(var i = 0; i<=mois.length; i++){
 console.log(mois);
+}
 
 //Exercice 8//
 
@@ -29,3 +31,7 @@ fruits.push("Courgette");
 console.log(fruits);
 
 //Exercice 9//
+fruits.splice(4, 0, "Citron");
+console.log(fruits);
+
+//Exercice 10//
