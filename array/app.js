@@ -1,3 +1,5 @@
 var mois = ['Janvier','Février','Mars','Avril', 'Mai','Juin', 'Juillet', 'Aout', 'Septembre', 'Octobre', 'Novembre', 'Decembre'];
 
-console.log(mois[3]);
+console.log(mois);
+
+console.log(mois[2]);
