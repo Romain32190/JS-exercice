@@ -1,3 +1,7 @@
+
+var fruits = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
+
+
 var mois = ['Janvier','Février','Mars','Avril', 'Mai','Juin', 'Juillet', 'Aout', 'Septembre', 'Octobre', 'Novembre', 'Decembre'];
 
 //Exercice 1//
@@ -18,3 +22,10 @@ console.log(mois);
 
 //Exercice 6//
 console.log(mois);
+
+//Exercice 8//
+
+fruits.push("Courgette");
+console.log(fruits);
+
+//Exercice 9//
