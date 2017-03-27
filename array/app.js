@@ -35,3 +35,5 @@ fruits.splice(4, 0, "Citron");
 console.log(fruits);
 
 //Exercice 10//
+fruits.splice(1, 1);
+console.log(fruits);
