@@ -52,7 +52,7 @@
 
 
 	//Exercice 6//
-
+o
 	function Person(nom, prenom, age){
 		return "Bonjour" + " " + nom + " " + prenom + ",tu as" + " " + age + "ans"
 	}
@@ -60,6 +60,6 @@
 
     //Exercice 7//
 
-   function Personne(age, genre){
-   	
+   function Personne(age, genre){;
+
    }
