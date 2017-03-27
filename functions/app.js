@@ -39,11 +39,21 @@
 		}
 }
 
-	console.log(nombres(10,8));
+		console.log(nombres(10,8));
 
-function Nombrechaine(nombre, chaine){
-	return nombre+ " " + chaine;
+	//Exercice 5//
 
-}
+	function Nombrechaine(nombre, chaine){
+		return nombre+ " " + chaine;
 
-console.log(Nombrechaine(19, "Romain"))
+	}
+
+	console.log(Nombrechaine(19, "Romain"))
+
+
+	//Exercice 6//
+
+	function Person(nom, prenom, age){
+		return "Bonjour" + " " + nom + " " + prenom + ",tu as" + " " + age + "ans"
+	}
+    console.log(Person("Lafargue", "Romain", 19));
