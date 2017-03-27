@@ -57,3 +57,9 @@
 		return "Bonjour" + " " + nom + " " + prenom + ",tu as" + " " + age + "ans"
 	}
     console.log(Person("Lafargue", "Romain", 19));
+
+    //Exercice 7//
+
+   function Personne(age, genre){
+   	
+   }
