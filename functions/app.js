@@ -60,6 +60,6 @@ o
 
     //Exercice 7//
 
-   function Personne(age, genre){
+   function Personne(age, genre){;
 
    }
